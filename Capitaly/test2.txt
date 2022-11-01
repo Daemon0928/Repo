@@ -1,0 +1,39 @@
+20
+Lucky 2000
+Property
+Service 1000
+Lucky 1500
+Property
+Property
+Service 500
+Lucky 1200
+Property
+Service 800
+Property
+Property
+Lucky 1200
+Service 600
+Property
+Property
+Service 2000
+Lucky 3000
+Property
+Property
+5
+Mark Greedy
+George Tactical
+Chad Greedy
+Ron Careful
+Belle Tactical
+4 3 6 2 2
+5 1 3 4 1
+2 6 3 1 3
+3 2 1 4 2
+1 3 5 1 3
+5 3 1 3 2
+1 1 1 3 4
+5 6 3 1 4
+5 3 2 4 4
+5 2 3 5 1
+6 4 6 1 3
+2 4 1 5 5
